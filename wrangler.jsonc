@@ -1,0 +1,5 @@
+{
+    "name": "gm-table",
+    "compatibility_date": "2026-10-08",
+    "assets": { "Directory": "./public" }
+}
